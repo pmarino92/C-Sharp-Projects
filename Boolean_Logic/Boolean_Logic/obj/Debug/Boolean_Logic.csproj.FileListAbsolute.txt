@@ -1,0 +1,7 @@
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Boolean_Logic\Boolean_Logic\bin\Debug\Boolean_Logic.exe.config
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Boolean_Logic\Boolean_Logic\bin\Debug\Boolean_Logic.exe
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Boolean_Logic\Boolean_Logic\bin\Debug\Boolean_Logic.pdb
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Boolean_Logic\Boolean_Logic\obj\Debug\Boolean_Logic.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Boolean_Logic\Boolean_Logic\obj\Debug\Boolean_Logic.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Boolean_Logic\Boolean_Logic\obj\Debug\Boolean_Logic.exe
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Boolean_Logic\Boolean_Logic\obj\Debug\Boolean_Logic.pdb
