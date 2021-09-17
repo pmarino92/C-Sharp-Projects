@@ -18,7 +18,7 @@ namespace Boolean_Logic
             // Ask if user has had a DUI
             // User response is a string
             Console.WriteLine("Have you ever had a DUI?");
-            bool userDUI = false;
+            bool userDUI = true;
             Console.ReadLine();
 
             // Asking user how many speeding tickets they have
@@ -29,8 +29,8 @@ namespace Boolean_Logic
            
             Console.WriteLine("Qualified?");
             bool qualified = false;
-            qualified = (userAge > 15 && userDUI == true && userTicket <= 3);
-            Console.WriteLine(qualified);
+            bool isQualified = (userAge > 15 && userDUI == true && userTicket <= 3);
+            Console.WriteLine(isQualified);
             Console.ReadLine();
 
         }
