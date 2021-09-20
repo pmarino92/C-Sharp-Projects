@@ -1,0 +1,7 @@
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Switching Statements\Switching Statements\bin\Debug\Switching Statements.exe.config
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Switching Statements\Switching Statements\bin\Debug\Switching Statements.exe
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Switching Statements\Switching Statements\bin\Debug\Switching Statements.pdb
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Switching Statements\Switching Statements\obj\Debug\Switching Statements.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Switching Statements\Switching Statements\obj\Debug\Switching Statements.exe
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Switching Statements\Switching Statements\obj\Debug\Switching Statements.pdb
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Switching Statements\Switching Statements\obj\Debug\Switching Statements.csproj.AssemblyReference.cache
