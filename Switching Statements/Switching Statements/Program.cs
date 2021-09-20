@@ -21,6 +21,15 @@ namespace Switching_Statements
             // while our number is less than 10
             // increment our variable "num" by 1
             while (num < 10);
+
+
+            // Our other while loop
+            int i = 0;
+            while (i < 5)
+            {
+                Console.WriteLine(i);
+                i++;
+            }
          
             Console.ReadLine();
         }
