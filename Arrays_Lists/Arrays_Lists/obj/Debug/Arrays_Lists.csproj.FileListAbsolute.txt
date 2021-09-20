@@ -1,0 +1,7 @@
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Arrays_Lists\Arrays_Lists\bin\Debug\Arrays_Lists.exe.config
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Arrays_Lists\Arrays_Lists\bin\Debug\Arrays_Lists.exe
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Arrays_Lists\Arrays_Lists\bin\Debug\Arrays_Lists.pdb
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Arrays_Lists\Arrays_Lists\obj\Debug\Arrays_Lists.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Arrays_Lists\Arrays_Lists\obj\Debug\Arrays_Lists.exe
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Arrays_Lists\Arrays_Lists\obj\Debug\Arrays_Lists.pdb
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Arrays_Lists\Arrays_Lists\obj\Debug\Arrays_Lists.csproj.AssemblyReference.cache
