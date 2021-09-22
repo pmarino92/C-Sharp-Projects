@@ -109,6 +109,10 @@ using System.Text;
         // PART 6 OF ASSIGNMENT
         // Creating a list of strings with two identical strings part 2
         List<string> CarList = new List<string> { "Camaro", "Ford F-150", "Dodge Ram", "Lamborghini", "Camaro" };
+        // Creating a temporary list to store duplicates
+        List<string> TempList = new List<string>();
+        TempList.Add("Camaro");
+        
 
         Console.WriteLine("Search List of Cars: ");
         
@@ -117,19 +121,20 @@ using System.Text;
         // Foreach Loop that evaluates whether a string has already appeared
         foreach(string value in CarList)
         {
-            if(value == "Camaro")
+            
+            if (TempList.Contains("Camaro"))
             {
-                Console.WriteLine(value + " has already appeared");
-               
+
+                Console.WriteLine("Camaro has already appeared");
                 
-            }
-            else 
-            {
-                Console.WriteLine(value);
-                
+                Console.WriteLine(value + " appears only once");
+             
             }
             
+            
+           
         }
+
         Console.ReadLine();
 
 
