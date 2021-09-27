@@ -123,18 +123,18 @@ using System.Text;
         // Foreach Loop that evaluates whether a string has already appeared
         foreach(string value in CarList)
         {
-
+            Console.WriteLine(value);
             if (TempList.Contains("CarList"))
             {
-                Console.WriteLine(value + " has already appeared");
-                TempList.Add(value);
-             
+                Console.WriteLine(" has already appeared");
+                
             }
-          
-
-           
-
-
+            else
+            {
+                Console.WriteLine(value + "has not appeared yet");
+            }
+            TempList.Add(value);
+         
         }
 
         Console.ReadLine();
