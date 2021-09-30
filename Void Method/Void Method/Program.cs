@@ -16,9 +16,8 @@ namespace Void_Method
             sub.Sub(4, 2); 
 
             // calling the method specifying the parameters by name
-            int a = 4;
-            int b = 2;
-            sub.Sub(a, b);
+            
+            sub.Sub(a: 4, b: 2 );
             Console.ReadLine();
             
         }
