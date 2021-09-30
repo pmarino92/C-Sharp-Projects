@@ -15,12 +15,12 @@ namespace Main_Method
 
         public double AddTwoNumbers(double number1, double number2)
         {
-            return number1 + number2;
+            return number1 / number2;
         }
 
         public string AddTwoNumbers(string number1, string number2)
         {
-            return (number1 + number2);
+            return number1 + number2;
         }
 
     }
