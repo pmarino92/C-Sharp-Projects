@@ -1,0 +1,7 @@
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Class Submission\Class Submission\bin\Debug\Class Submission.exe.config
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Class Submission\Class Submission\bin\Debug\Class Submission.exe
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Class Submission\Class Submission\bin\Debug\Class Submission.pdb
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Class Submission\Class Submission\obj\Debug\Class Submission.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Class Submission\Class Submission\obj\Debug\Class Submission.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Class Submission\Class Submission\obj\Debug\Class Submission.exe
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Class Submission\Class Submission\obj\Debug\Class Submission.pdb
