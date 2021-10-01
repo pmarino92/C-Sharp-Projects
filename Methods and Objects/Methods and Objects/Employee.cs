@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace Methods_and_Objects
 {
-    class Employee : Person
+    public class Employee : Person
     {
         public int Id { get; set; }
+        public override void SayName()
+        {
+            Console.WriteLine("New Employee");
+            base.SayName();
+        }
     }
 }
