@@ -10,29 +10,29 @@ namespace Class_Submission
     {
         static void Main(string[] args)
         {
-            // instantiate our class
-            Division divide = new Division();
-            // Prompt user to enter a number
-            // store user number in data
-            Console.WriteLine("Enter a number");
-            int data = Convert.ToInt32(Console.ReadLine());
+            //// instantiate our class
+            //Division divide = new Division();
+            //// Prompt user to enter a number
+            //// store user number in data
+            //Console.WriteLine("Enter a number");
+            //int data = Convert.ToInt32(Console.ReadLine());
 
-            // Call our method
-            divide.Divy(data);
+            //// Call our method
+            //divide.Divy(data);
 
-            // This will be our out param method
-            void Out(out int number)
-            {
-                number = 69;
-                Console.WriteLine("nice");
-            }
+            //// This will be our out param method
+            //void Out(out int number)
+            //{
+            //    number = 69;
+            //    Console.WriteLine("nice");
+            //}
 
-            // Declaring number1 without assigning a value
-            int number1;
+            //// Declaring number1 without assigning a value
+            //int number1;
 
-            // Calling the method and passing it as an out parameter
-            Out(out number1);
-            Console.Write(number1);
+            //// Calling the method and passing it as an out parameter
+            //Out(out number1);
+            //Console.Write(number1);
 
 
 

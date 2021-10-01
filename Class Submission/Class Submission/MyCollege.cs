@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Class_Submission
 {
-    class MyCollege
+    public static class MyCollege
     {
         // static fields
         public static string CollegeName;
