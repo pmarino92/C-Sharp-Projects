@@ -20,6 +20,12 @@ namespace Methods_and_Objects
             // Calling SayName method
             // Returns Name: SampleStudent to console
             employee.SayName();
+            employee.Quit(employee);
+
+            // Using polymorphism to create an object
+            // Of type IQuittable
+            IQuittable quit = new Employee();
+            quit.Quit(employee);
             Console.ReadLine();
         }
     }
