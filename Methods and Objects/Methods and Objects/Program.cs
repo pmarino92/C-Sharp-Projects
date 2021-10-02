@@ -12,20 +12,39 @@ namespace Methods_and_Objects
         {
             // Instantiating employee object
             Employee employee = new Employee();
+            Employee employee2 = new Employee();
             // Assigning first name
-            employee.FirstName = "Sample";
+            employee.FirstName = "Sample ";
             // Assigning last name
-            employee.LastName = "Student";
+            employee.LastName = " Student";
+            employee.Id = 1;
+            employee.SayName();
+
+            // 2nd employee
+            employee2.FirstName = "Phil ";
+            employee2.LastName = "Marino";
+            employee2.Id = 1;
+            employee2.SayName();
+
+            if(employee.Id == employee2.Id)
+            {
+                Console.WriteLine("Id Match");
+            }
+
+            
+
+
+
 
             // Calling SayName method
             // Returns Name: SampleStudent to console
-            employee.SayName();
-            employee.Quit(employee);
+            
+            //employee.Quit(employee);
 
             // Using polymorphism to create an object
             // Of type IQuittable
-            IQuittable quit = new Employee();
-            quit.Quit(employee);
+            //IQuittable quit = new Employee();
+            //quit.Quit(employee);
             Console.ReadLine();
         }
     }
