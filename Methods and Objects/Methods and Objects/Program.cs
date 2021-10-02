@@ -17,22 +17,27 @@ namespace Methods_and_Objects
             employee.FirstName = "Sample ";
             // Assigning last name
             employee.LastName = " Student";
-            employee.Id = 1;
+            
             employee.SayName();
 
             // 2nd employee
             employee2.FirstName = "Phil ";
             employee2.LastName = "Marino";
-            employee2.Id = 1;
+            
             employee2.SayName();
 
             if(employee.Id == employee2.Id)
             {
                 Console.WriteLine("Id Match");
             }
+            else
+            {
+                Console.WriteLine("No Id Match");
+            }
+
 
             
-
+            
 
 
 
