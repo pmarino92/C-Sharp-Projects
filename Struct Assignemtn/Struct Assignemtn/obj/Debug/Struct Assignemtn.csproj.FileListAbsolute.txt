@@ -1,0 +1,7 @@
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Struct Assignemtn\Struct Assignemtn\bin\Debug\Struct Assignemtn.exe.config
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Struct Assignemtn\Struct Assignemtn\bin\Debug\Struct Assignemtn.exe
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Struct Assignemtn\Struct Assignemtn\bin\Debug\Struct Assignemtn.pdb
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Struct Assignemtn\Struct Assignemtn\obj\Debug\Struct Assignemtn.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Struct Assignemtn\Struct Assignemtn\obj\Debug\Struct Assignemtn.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Struct Assignemtn\Struct Assignemtn\obj\Debug\Struct Assignemtn.exe
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Struct Assignemtn\Struct Assignemtn\obj\Debug\Struct Assignemtn.pdb
