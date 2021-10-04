@@ -1,0 +1,7 @@
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Lambda\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Lambda\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Lambda\Lambda\bin\Debug\Lambda.exe
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Lambda\Lambda\bin\Debug\Lambda.pdb
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Lambda\Lambda\obj\Debug\Lambda.exe
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Lambda\Lambda\obj\Debug\Lambda.pdb
