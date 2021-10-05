@@ -1,0 +1,7 @@
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Method Submission 2\Method Submission 2\obj\Debug\Method Submission 2.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Method Submission 2\Method Submission 2\obj\Debug\Method Submission 2.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Method Submission 2\Method Submission 2\bin\Debug\Method Submission 2.exe.config
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Method Submission 2\Method Submission 2\bin\Debug\Method Submission 2.exe
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Method Submission 2\Method Submission 2\bin\Debug\Method Submission 2.pdb
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Method Submission 2\Method Submission 2\obj\Debug\Method Submission 2.exe
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Method Submission 2\Method Submission 2\obj\Debug\Method Submission 2.pdb

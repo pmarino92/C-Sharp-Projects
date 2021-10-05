@@ -5,3 +5,10 @@ C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Iteration\Iteration\obj\Debug\I
 C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
 C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Iteration\Iteration\obj\Debug\Iteration.exe
 C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Iteration\Iteration\obj\Debug\Iteration.pdb
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Iteration\Iteration\obj\Debug\Iteration.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Iteration\Iteration\obj\Debug\Iteration.pdb
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\Iteration\Iteration\bin\Debug\Iteration.pdb

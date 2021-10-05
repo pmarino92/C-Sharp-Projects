@@ -111,8 +111,10 @@ using System.Text;
         List<string> CarList = new List<string> { "Camaro", "Ford F-150", "Dodge Ram", "Lamborghini", "Camaro" };
         // Creating a temporary list to store duplicates
         List<string> TempList = new List<string>();
-        TempList.Add("Camaro");
-        
+        TempList.Add("CarList");
+        TempList.Contains("CarList");
+
+
 
         Console.WriteLine("Search List of Cars: ");
         
@@ -121,18 +123,18 @@ using System.Text;
         // Foreach Loop that evaluates whether a string has already appeared
         foreach(string value in CarList)
         {
-            
-            if (TempList.Contains("Camaro"))
+            Console.WriteLine(value);
+            if (TempList.Contains("CarList"))
             {
-
-                Console.WriteLine("Camaro has already appeared");
+                Console.WriteLine(" has already appeared");
                 
-                Console.WriteLine(value + " appears only once");
-             
             }
-            
-            
-           
+            else
+            {
+                Console.WriteLine(value + "has not appeared yet");
+            }
+            TempList.Add(value);
+         
         }
 
         Console.ReadLine();
