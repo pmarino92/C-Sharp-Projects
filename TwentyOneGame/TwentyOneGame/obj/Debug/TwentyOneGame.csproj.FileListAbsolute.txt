@@ -5,3 +5,10 @@ C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOneGame\TwentyOn
 C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.csproj.CoreCompileInputs.cache
 C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.exe
 C:\Users\phili\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.pdb
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\TwentyOneGame.exe.config
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\TwentyOneGame.exe
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\TwentyOneGame.pdb
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.exe
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.pdb
