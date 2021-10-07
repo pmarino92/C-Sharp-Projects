@@ -24,7 +24,17 @@ namespace Constructor
             this.firstName = firstName;
             Console.WriteLine("New Employee");
         }
-        
+
+        public NewEmployee() : this("Default firstName", "Default lastName")
+        {
+            Console.WriteLine("Reserving new record for the upcoming employee.");
+        }
+        public NewEmployee(string firstName) : this(firstName, "Default lastName")
+        {
+            this.firstName = firstName;
+            Console.WriteLine("Creating new record for the upcoming employee, with firstName!");
+        }
+
     }
     
 }
