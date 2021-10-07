@@ -6,18 +6,25 @@ using System.Threading.Tasks;
 
 namespace Constructor
 {
-   public class Employee
+    public class NewEmployee
     {
-        public Employee(string name) : this(name, 1)
+        public string firstName;
+        public string lastName;
+        public NewEmployee()
         {
-
+            Console.WriteLine("New Employee")
         }
-
-        public Employee(string name, int Id)
+        public NewEmployee(string firstName)
         {
-            Name = name;
-            Id = Id;
-
+            this.firstName = firstName;
         }
+        public NewEmployee(string firstName, string lastName)
+        {
+            this.lastName = lastName;
+            this.firstName = firstName;
+            Console.WriteLine("New Employee");
+        }
+        
     }
+    
 }
