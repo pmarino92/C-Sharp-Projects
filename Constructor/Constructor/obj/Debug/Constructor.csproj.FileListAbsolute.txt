@@ -4,3 +4,4 @@ C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Constructor\Constructor\bin\Deb
 C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
 C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Constructor\Constructor\obj\Debug\Constructor.exe
 C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Constructor\Constructor\obj\Debug\Constructor.pdb
+C:\Users\phili\OneDrive\Desktop\C-Sharp-Projects\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache

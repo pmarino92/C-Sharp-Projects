@@ -10,11 +10,11 @@ namespace Constructor
     {
         public string firstName;
         public string lastName;
-        public NewEmployee()
+        public NewEmployee(): this("Phil", "Marino")
         {
-            Console.WriteLine("New Employee")
+            Console.WriteLine("New Employee");
         }
-        public NewEmployee(string firstName)
+        public NewEmployee(string firstName): this(firstName, "Taylor")
         {
             this.firstName = firstName;
         }
@@ -22,18 +22,9 @@ namespace Constructor
         {
             this.lastName = lastName;
             this.firstName = firstName;
-            Console.WriteLine("New Employee");
+            Console.WriteLine("new employee");
         }
-
-        public NewEmployee() : this("Default firstName", "Default lastName")
-        {
-            Console.WriteLine("Reserving new record for the upcoming employee.");
-        }
-        public NewEmployee(string firstName) : this(firstName, "Default lastName")
-        {
-            this.firstName = firstName;
-            Console.WriteLine("Creating new record for the upcoming employee, with firstName!");
-        }
+        
 
     }
     
