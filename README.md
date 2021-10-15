@@ -3,7 +3,7 @@ These are some of my projects I have been working on with C# through the use of 
 
 ## Projects
 <a href="https://github.com/pmarino92/C-Sharp-Projects/tree/main/TwentyOneGame">TwentyOne(Blackjack)</a> <br>
-<a href="https://github.com/pmarino92/C-Sharp-Projects/tree/main/DailyReport/CarInsurance">Car Insurance</a>
+<a href="https://github.com/pmarino92/C-Sharp-Projects/tree/main/DailyReport/CarInsurance">Car Insurance</a> <br>
 <a href="https://github.com/pmarino92/C-Sharp-Projects/tree/main/NewsLetterAppMVC">NewsLetter</a>
 
 ## Blackjack
